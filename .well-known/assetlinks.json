@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tuokak11_ctrl.twa",
+    "sha256_cert_fingerprints": ["06:F5:E3:17:E4:CB:9E:27:E8:F5:4A:58:1A:50:8E:3E:98:00:A4:0E:67:D7:40:DC:95:8F:38:18:EC:09:32:CD"]
+  }
+}]
